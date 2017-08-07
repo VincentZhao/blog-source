@@ -1,0 +1,34 @@
+---
+layout: post
+title: MacType —— 让 Windows 也能有 Mac 般的字体渲染
+date: 2013-02-06 21:31
+comments: true
+categories: weblog
+---
+
+用久了 Mac 和 Ubuntu 操作系统回到 Windows XP 后，最受不了的恐怕要数 Windows 平台下糟糕的字体渲染了。很多在 Mac 上很优秀的编程字体到了 Windows 下面锯齿严重，比如 Monaco 或 Menlo， 显示效果可谓惨不忍睹。
+
+<!-- more -->
+
+__使用前 Windows 中 Menlo 字体的显示__
+{% img http://farm9.staticflickr.com/8045/8450199256_f1d5ca3c5f_o.png 使用前 %}
+
+于是上网寻觅良方，终于找到了一款名叫 [MacType](https://code.google.com/p/mactype/) 的软件。MacType，顾名思义，就是能在 Windows 下面也能体验到 Mac 一样的字体渲染，从而达到优秀的阅读体验。试用之后，果然效果明显。
+
+__使用了 MacType 以后__
+{% img http://farm9.staticflickr.com/8084/8449114333_f47970e939_o.png 使用后 %}
+
+是不是看着舒服了很多呢？
+
+另外，MacType 在自由配置方面，也是异常强大。比较有用的有：
+
+ * 可以自由选择 MacType 的加载方式。有注册表加载，以服务的形式加载，及系统托盘加载。
+ * 可以自由选择对哪些进程进行字体渲染。
+ * 可以自由定义对特定字体进行字体替换。
+ * 可以自由选择对哪些字体进行渲染。
+ * 可以对指定字体进行特定的字体渲染方案。
+ * 提供了很多专业的字体渲染设置选项，以确保能微调至最好的显示效果。
+
+如果你被以上强大的设置能力吓到了，也不用害怕。MacType 提供了很多预设的配置，所以一般我们只需要从中选一个最适合我们的显示器的方案就行了。
+
+最后要感谢 MacType 的作者[雪儿](http://mactype.themex.net/)，让我们这些工作时不得不使用 Windows 的人们终于摆脱了糟糕的字体显示。
